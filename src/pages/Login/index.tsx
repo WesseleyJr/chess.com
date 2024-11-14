@@ -72,7 +72,7 @@ export const Login = () => {
               propsShowEye={true}
             />
             <Button
-              title="Esqueceu / Redefinis Senha?"
+              title="Esqueceu / Redefinir Senha?"
               propsBackgroundColor="#312D2A"
               propsHeight={20}
               propsFontSize={15}
